@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (CRITICAL)
+.env
+.env.*
+
+# Local SQLite Database 
+.tmp/
+database/**/*.db
+database/**/*.sqlite
+data/
+
+# Strapi Build & Cache Files
+.cache/
+build/
+dist/
+
+# Uploaded Media 
+public/uploads/
+
+# OS & Editor Files
+.DS_Store
+.vscode/
+.idea/

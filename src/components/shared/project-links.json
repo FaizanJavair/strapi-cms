@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_project_links",
+  "info": {
+    "displayName": "Project Links"
+  },
+  "options": {},
+  "attributes": {
+    "live": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
